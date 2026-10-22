@@ -1,33 +1,93 @@
-# Hey there 👋
+# Hey there! 👋 I'm Nut
 
-I'm Nut
+### 🚀 Full Stack Web Developer | Building Modern Web Experiences
 
-I'm a Web Developer. 
-Skilled in HTML, CSS, JavaScript, PHP, SQL, React, and SCSS.
-Currently focused on Backend with Node.js, 
-while exploring UI design and new frontend technologies.
+I'm a passionate **Full Stack Web Developer** who enjoys turning ideas into functional, responsive, and user-friendly web applications.
 
-##=== Tools & Tech
+I work with modern frontend and backend technologies, including **React, TypeScript, JavaScript, Node.js, Express.js, PHP, and SQL**.
 
-* Languages:** HTML, CSS, JavaScript, PHP, SQL, SCSS
-* Frameworks & Libs: React, Vite, Bootstrap, Tailwind css
-* Tools: VS Code, Git
-* Currently Learning: Node.js, Express, API Development
+My interests include building scalable web applications, designing intuitive user interfaces, developing RESTful APIs, and exploring modern software architecture.
 
-##=== Projects
-
-- E-commerce Web App
-  Live Demo: "https://my-wed-template-github-io.onrender.com/"
-  Shopping cart system, add/remove/update items  
-  Responsive design  
-- Product API Website  
-  Fetch product data from JSON/API  
-  Dynamic rendering with JavaScript
-
-##=== Goals
-
-- Become a professional Full Stack Developer  
-- Work on real-world projects and freelance jobs
+I'm continuously improving my development skills, learning new technologies, and building real-world projects to grow as a professional developer.
 
 ---
 
+## 🛠️ Tools & Tech
+
+**💻 Programming Languages**
+- HTML5, CSS3, JavaScript (ES6+)
+- TypeScript, PHP, SQL
+
+**🎨 Frontend Development**
+- React, Vite
+- Tailwind CSS, Bootstrap, SCSS
+- Responsive Web Design
+- UI/UX Implementation
+
+**⚙️ Backend Development**
+- Node.js, Express.js
+- PHP
+- RESTful API Development
+- API Integration
+- CRUD Operations
+
+**🗄️ Database**
+- SQL
+- Relational Database Fundamentals
+
+**🔧 Development Tools**
+- Visual Studio Code
+- Git & GitHub
+
+**📚 Currently Learning & Exploring**
+- Next.js
+- Prisma ORM
+- MySQL & PostgreSQL
+- Docker & Containerization
+- Python & Java
+- Authentication & Web Security
+- Cloud Deployment & CI/CD
+
+---
+
+## 🚀 Featured Projects
+
+### 🛒 E-commerce Web Application
+
+**🌐 Live Demo:** https://my-wed-template-github-io.onrender.com/
+
+An interactive and responsive e-commerce web application designed to provide a smooth shopping experience.
+
+**Features:**
+- Dynamic product display
+- Add, remove, and update shopping cart items
+- Responsive layouts for desktop and mobile
+- Interactive user interface
+
+### 📦 Product API Website
+
+A web application that retrieves and displays product data using JavaScript and APIs.
+
+**Features:**
+- Fetch product data from JSON and external APIs
+- Dynamic content rendering
+- Asynchronous JavaScript operations
+- Responsive interface components
+
+---
+
+## 🎯 Goals & Vision
+
+- Become a highly skilled **Professional Full Stack Developer**
+- Build modern, secure, and scalable web applications
+- Develop reliable backend systems and RESTful APIs
+- Master database design, cloud technologies, and deployment
+- Create impactful real-world projects
+- Work on professional software development and freelance projects
+- Continuously learn and adapt to emerging technologies
+
+---
+
+### 💡 "Code. Create. Improve. Repeat."
+
+*Always learning. Always building.*
